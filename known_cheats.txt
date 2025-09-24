@@ -1,39 +1,38 @@
-Known Cheats:
-=============
-
-lunar and oatmeal are sigma - Metadata Custom OS
-i like cheese - Rec Room Cheat
-void - Void
-void_menu_open - Void 2
-cronos - Cronos
-violetpaiduser - Violet Paid
-violetfreeuser - Violet Free
-vivid - Vivid
-orbit - Orbit
-6p72ly3j85pau2g9mda6ib8px - CCM V2
-obsidianmc - Obsidian.lol
-hidden menu - Hidden
-oblivionuser - Oblivion
-phantom - Phantom
-frhiugvhrejughejuruij_fhbuijerbfjkvbrehjbv/uithbuyreghuyhvferwu\_jrjegjuu.ireji/girenhguerhn\n - Resurgence
-slientcc - Slient CC
-renwo - Renwo
-fysmenu - FYS Menu
-evewatch - Eve Watch
-blehuser - Bleh Menu
-genesis - Genesis
-asteroidlite - Asteroid Lite
-modmenu - Tranzic
-control - Control
-controlfree - Control Free
-flux - Flux
-elux - Elux
-serum - Serum
-cokecosmetics - Shit CosmetX
-mistuser - Mist
-untitled - Untitled
-silliness - Silliness
-eyerock reborn - Eyerock Reborn
-elysorpaid - Elysor Paid
-evicteduser - Evicted
-emotewheel - Emote Wheel
+{
+  "lunar and oatmeal are sigma": "Metadata Custom OS",
+  "i like cheese": "Rec Room Cheat",
+  "void": "Void",
+  "void_menu_open": "Void 2",
+  "cronos": "Cronos",
+  "violetpaiduser": "Violet Paid",
+  "violetfreeuser": "Violet Free",
+  "vivid": "Vivid",
+  "orbit": "Orbit",
+  "6p72ly3j85pau2g9mda6ib8px": "CCM V2",
+  "obsidianmc": "Obsidian.lol",
+  "hidden menu": "Hidden",
+  "oblivionuser": "Oblivion",
+  "phantom": "Phantom",
+  "frhiugvhrejughejuruij_fhbuijerbfjkvbrehjbv/uithbuyreghuyhvferwu\\_jrjegjuu.ireji/girenhguerhn\\n": "Resurgence",
+  "slientcc": "Slient CC",
+  "renwo": "Renwo",
+  "fysmenu": "FYS Menu",
+  "evewatch": "Eve Watch",
+  "blehuser": "Bleh Menu",
+  "genesis": "Genesis",
+  "asteroidlite": "Asteroid Lite",
+  "modmenu": "Tranzic",
+  "control": "Control",
+  "controlfree": "Control Free",
+  "flux": "Flux",
+  "elux": "Elux",
+  "serum": "Serum",
+  "cokecosmetics": "Shit CosmetX",
+  "mistuser": "Mist",
+  "untitled": "Untitled",
+  "silliness": "Silliness",
+  "eyerock reborn": "Eyerock Reborn",
+  "elysorpaid": "Elysor Paid",
+  "evicteduser": "Evicted",
+  "emotewheel": "Emote Wheel"
+}
