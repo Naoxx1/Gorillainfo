@@ -1,0 +1,92 @@
+Known Mods:
+============
+
+odcam - ODC Mod
+spankyui - SpankyUI
+gp - Gorilla Player
+hp_left - HP Left
+gc - Gorilla Console
+gs - Gorilla Shirts
+shirtversion - Gorilla Shirts Version
+gorillashirts - Gorilla Shirts
+infowatchversion - Gorilla Info Watch Version
+infowatch - Gorilla Info Watch
+github.com/zlothy29iq/roomutils-iw - Gorilla Info Watch Room Utils
+github.com/zlothy29iq/zloth-recroomrig - Rec Room Rig
+github.com/zlothy29iq/monkeclick - Monke Click
+github.com/zlothy29iq/monkeclick-ci - Monke Click CI
+github.com/zlothy29iq/toomuchinfo - Too Much Info
+github.com/zlothy29iq/monkerealism - Monke Realism
+github.com/zlothy29iq/gorillamediadisplay - Gorilla Media Display
+dingus - No Mod
+customskin - Custom Skin
+gpronouns - Gorilla Pronouns
+gfaces - Gorilla Faces
+hasgface - Gorilla Faces 2
+monkephone - Monke Phone
+pmversion - Phone Mod
+gtrials - Gorilla Trials
+bp15's lobby gui - BP15 Lobby GUI
+disconnect mod - Disconnect Mod
+gorillaplayeriddisplay - Gorilla Player ID Display
+pcneckmovement - PC Neck Movement
+fusioned - Decal Free
+equippedweapon - Weapon
+grateversion - Grate
+msp - MSP
+competitiveplusplus - Competitive Plus Plus
+gorillawatch - Gorilla Watch
+gorillastats - Gorilla Stats
+using gorilladrift - Gorilla Drift
+whoisthatmonke version - Who Is That Monke
+monkehavocversion - Monke Havoc
+carname - Gorilla Vehicle
+tictactoe - Tic Tac Toe
+bananaos - Banana OS
+panelopen - No Banana OS
+ccolor - Index
+imposter - Gorilla Among Us
+freakcam - Camera Mod
+hansolo1000falcon, stop reading my custom props - Ariel CAM
+https://github.com/arielthemonke/gorillacraftautobuilder - Gorilla Craft Auto Builder
+spectapeversion - Spectape
+cats - Cats
+cats updated - Cats Updated
+made by biotest05 :3 - Dogs
+dogs - Dogs 2
+dogs mod menu (this shit is legal, mkay?) - Dogs But Shit
+fys cool magic mod - Magic Mod
+bananaphone - Banana Phone
+colour - Color Changer
+chainedtogether - Chained Together
+shinygorilla - Shiny Utils
+blueyyy - Blue Wasd
+goofywalkversion - Goofy Walk
+aweawe - Rec Room Rig
+body tracking - Full Body Tracking
+body estimation - Full Body Estimation
+simpleboardsversion - Simple Boards
+gorillanametags - Gorilla Nametags
+nametagsplusplus - Nametags Plus Plus
+fps-nametags for zlothy - FPS Nametags for Zlothy
+a mod that has to do with network stuff in grate (it won't work for most people) - GAA
+hamburbur - Hamburbur Menu
+custom property setter - Custom Property Setter
+mediapad - Media Pad
+gorillacinema - Gorilla Cinema
+walksimulator - Walk Simulator
+deetags - Dee Tags
+kingbingus.oculusreportmenu - King Bingus Oculus Report Menu
+isusingmeta - Meta Report Menu
+chainedtogetheractive - Chained Together Active
+graze heath system - Graze Health System
+gorillashop - Gorilla Shop
+gorillatorsoestimator - Gorilla Torso Estimator
+gorilla track 2.2.0 - Gorilla Track
+gorilla track packed - Gorilla Track Packed
+boy do i love information - Boy Do I Love Information
+pineappleterminal - Pineapple Terminal
+cody likes burritos - Sum
+fallmonke_prop - Fall Monke
+gphysversion - Gorilla Physics
+drowsiiiheadmodfications - Drowsiii Head Modifications
