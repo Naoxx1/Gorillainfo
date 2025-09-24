@@ -87,6 +87,25 @@
   "cody likes burritos": "Sum",
   "fallmonke_prop": "Fall Monke",
   "gphysversion": "Gorilla Physics",
-  "drowsiiiheadmodfications": "Drowsiii Head Modifications"
-
+  "drowsiiiheadmodfications": "Drowsiii Head Modifications",
+  "gfaces": "GFaces",
+  "github.com/maroon-shadow/SimpleBoards": "Simple Boards",
+  "FPS-Nametags for Zlothy": "FPS Nametags",
+  "GPronouns": "GPronouns",
+  "CSVersion": "Custom Skin",
+  "ShirtProperties": "GShirts Old",
+  "GS": "Old GShirts",
+  "HP_Left": "Holdable Pad",
+  "GC": "GCraft",
+  "Body Tracking": "Body Tracking",
+  "Gorilla Track": "GTrack",
+  "InfoWatch": "Info Watch",
+  "CustomMaterial": "Custom Cosmetics",
+  "cheese is gouda": "WhoIsThatMonke",
+  "WhoIsThatMonke": "WhoIsThatMonke Recode",
+  "I like cheese": "awawe",
+  "NametagsPlusPlus": "Nametags++",
+  "WalkSimulator": "WalkSim ZlothY Fix",
+  "Dingus": "dingus",
+  "Graze Heath System": "Health System"
 }
