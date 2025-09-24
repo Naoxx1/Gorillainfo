@@ -34,5 +34,10 @@
   "eyerock reborn": "Eyerock Reborn",
   "elysorpaid": "Elysor Paid",
   "evicteduser": "Evicted",
-  "emotewheel": "Emote Wheel"
+  "emotewheel": "Emote Wheel",
+  "ObsidianMC": "Obsidian",
+  "ORBIT": "Orbit (Weeb)",
+  "Violet On Top": "Violet",
+  "ElixirMenu": "Elixir",
+  "Fusioned": "Fusioned"
 }
