@@ -16,7 +16,7 @@
   "github.com/zlothy29iq/toomuchinfo": "Too Much Info",
   "github.com/zlothy29iq/monkerealism": "Monke Realism",
   "github.com/zlothy29iq/gorillamediadisplay": "Gorilla Media Display",
-  "dingus": "No Mod",
+  "dingus": "Dingus",
   "customskin": "Custom Skin",
   "gpronouns": "Gorilla Pronouns",
   "gfaces": "Gorilla Faces",
@@ -88,4 +88,5 @@
   "fallmonke_prop": "Fall Monke",
   "gphysversion": "Gorilla Physics",
   "drowsiiiheadmodfications": "Drowsiii Head Modifications"
+
 }
