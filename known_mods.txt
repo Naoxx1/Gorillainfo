@@ -108,4 +108,6 @@
   "WalkSimulator": "WalkSim ZlothY Fix",
   "Dingus": "dingus",
   "Graze Heath System": "Health System"
+  "trackermod": "Tracker Mod by me"
 }
+
