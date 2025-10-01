@@ -39,5 +39,7 @@
   "ORBIT": "Orbit (Weeb)",
   "Violet On Top": "Violet",
   "ElixirMenu": "Elixir",
-  "Fusioned": "Fusioned"
+  "Fusioned": "Fusioned",
+  "iimenu": "II Menu"
 }
+
