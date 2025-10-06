@@ -68,7 +68,6 @@
   "nametagsplusplus": "Nametags Plus Plus",
   "fps-nametags for zlothy": "FPS Nametags for Zlothy",
   "a mod that has to do with network stuff in grate (it won't work for most people)": "GAA",
-  "hamburbur": "Hamburbur Menu",
   "custom property setter": "Custom Property Setter",
   "mediapad": "Media Pad",
   "gorillacinema": "Gorilla Cinema",
@@ -110,5 +109,6 @@
   "Graze Heath System": "Health System",
   "trackermod": "Tracker Mod by me"
 }
+
 
 
