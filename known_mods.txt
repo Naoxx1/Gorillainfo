@@ -79,7 +79,8 @@
   "graze heath system": "Graze Health System",
   "gorillashop": "Gorilla Shop",
   "gorillatorsoestimator": "Gorilla Torso Estimator",
-  "gorilla track 2.2.0": "Gorilla Track",
+  "Gorilla Track 2.3.0": "Gorilla Track",
+  "gorilla track 2.2.0": "Gorilla Track Old",
   "gorilla track packed": "Gorilla Track Packed",
   "boy do i love information": "Boy Do I Love Information",
   "pineappleterminal": "Pineapple Terminal",
@@ -87,7 +88,7 @@
   "fallmonke_prop": "Fall Monke",
   "gphysversion": "Gorilla Physics",
   "drowsiiiheadmodfications": "Drowsiii Head Modifications",
-  "gfaces": "GFaces",
+  "gfaces": "Gorilla Faces",
   "github.com/maroon-shadow/SimpleBoards": "Simple Boards",
   "FPS-Nametags for Zlothy": "FPS Nametags",
   "GPronouns": "GPronouns",
@@ -109,7 +110,3 @@
   "Graze Heath System": "Health System",
   "trackermod": "Tracker Mod by me"
 }
-
-
-
-
