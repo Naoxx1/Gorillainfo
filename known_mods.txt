@@ -41,7 +41,7 @@
   "carname": "Gorilla Vehicle",
   "tictactoe": "Tic Tac Toe",
   "bananaos": "Banana OS",
-  "panelopen": "No Banana OS",
+  "panelopen": "Open Banana OS",
   "ccolor": "Index",
   "imposter": "Gorilla Among Us",
   "freakcam": "Camera Mod",
@@ -109,6 +109,7 @@
   "Graze Heath System": "Health System",
   "trackermod": "Tracker Mod by me"
 }
+
 
 
 
