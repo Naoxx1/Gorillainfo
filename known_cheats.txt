@@ -41,7 +41,8 @@
   "ElixirMenu": "Elixir",
   "Fusioned": "Fusioned",
   "aQ30c80623r8AGK4y64bfV3sr": "idk what this is",
-  "goopers-menu": "Goopers Menu"
+  "goopers-menu": "Goopers Menu",
   "Solstice": "Solstice",
   "VantaMenu[Owner]": "VantaMenu"
 }
+
