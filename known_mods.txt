@@ -124,8 +124,10 @@
   "hardLevel": "sex mod",
   "hasSexMod": "sex mod",
   "isSexModEnabled": "sex mod",
-  "ModCount": "Mod counter"
+  "ModCount": "Mod counter",
+  "SimpleBoardsRepo": "SimpleBoards"
 }
+
 
 
 
