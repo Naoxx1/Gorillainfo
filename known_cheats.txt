@@ -48,8 +48,10 @@
   "colossal": "Colossal",
   "emenu": "emenu?",
   "Eyerock Reborn 1.4.1": "Eyerock Reborn",
-  "Illusion": "Illusion menu"
+  "Illusion": "Illusion menu",
+  "menu": "Menu?"
 }
+
 
 
 
