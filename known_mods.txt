@@ -118,8 +118,10 @@
   "CougarController": "sex mod",
   "drowsiiiGorillaInfoBoard": "Gorilla Info Board",
   "fetishType": "sex mod",
-  "genderSex": "sex mod"
+  "genderSex": "sex mod",
+  "goldennametags": "GoldenNametags"
 }
+
 
 
 
