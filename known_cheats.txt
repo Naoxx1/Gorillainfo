@@ -45,8 +45,10 @@
   "Solstice": "Solstice",
   "VantaMenu[Owner]": "VantaMenu",
   "6xpyykmrcthkhfeufkygxv7xnxpoe2": "Cryptic menu",
-  "colossal": "Colossal"
+  "colossal": "Colossal",
+  "emenu": "emenu?"
 }
+
 
 
 
