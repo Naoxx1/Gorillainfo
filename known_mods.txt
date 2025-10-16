@@ -122,8 +122,10 @@
   "goldennametags": "GoldenNametags",
   "hamburbur": "hamburbur",
   "hardLevel": "sex mod",
-  "hasSexMod": "sex mod"
+  "hasSexMod": "sex mod",
+  "isSexModEnabled": "sex mod"
 }
+
 
 
 
