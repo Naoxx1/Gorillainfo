@@ -115,8 +115,10 @@
   "IC": "not sure what this is",
   "12InchesDeep": "sex mod",
   "barkversion": "Bark",
-  "CougarController": "sex mod"
+  "CougarController": "sex mod",
+  "drowsiiiGorillaInfoBoard": "Gorilla Info Board"
 }
+
 
 
 
