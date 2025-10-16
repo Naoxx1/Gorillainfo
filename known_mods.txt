@@ -119,8 +119,10 @@
   "drowsiiiGorillaInfoBoard": "Gorilla Info Board",
   "fetishType": "sex mod",
   "genderSex": "sex mod",
-  "goldennametags": "GoldenNametags"
+  "goldennametags": "GoldenNametags",
+  "hamburbur": "hamburbur"
 }
+
 
 
 
