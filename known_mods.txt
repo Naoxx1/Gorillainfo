@@ -114,8 +114,10 @@
   "Blink": "Blink",
   "IC": "not sure what this is",
   "12InchesDeep": "sex mod",
-  "barkversion": "Bark"
+  "barkversion": "Bark",
+  "CougarController": "sex mod"
 }
+
 
 
 
