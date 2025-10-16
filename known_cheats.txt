@@ -51,8 +51,10 @@
   "Illusion": "Illusion menu",
   "menu": "Menu?",
   "overdosed": "overdosed menu",
-  "resurgence": "resurgence?"
+  "resurgence": "resurgence?",
+  "violet_f": "Violet Free"
 }
+
 
 
 
