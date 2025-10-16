@@ -50,8 +50,10 @@
   "Eyerock Reborn 1.4.1": "Eyerock Reborn",
   "Illusion": "Illusion menu",
   "menu": "Menu?",
-  "overdosed": "overdosed menu"
+  "overdosed": "overdosed menu",
+  "resurgence": "resurgence?"
 }
+
 
 
 
