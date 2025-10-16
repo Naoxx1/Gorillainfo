@@ -44,7 +44,9 @@
   "goopers-menu": "Goopers Menu",
   "Solstice": "Solstice",
   "VantaMenu[Owner]": "VantaMenu",
-  "6xpyykmrcthkhfeufkygxv7xnxpoe2": "Cryptic menu"
+  "6xpyykmrcthkhfeufkygxv7xnxpoe2": "Cryptic menu",
+  "colossal": "Colossal"
 }
+
 
 
