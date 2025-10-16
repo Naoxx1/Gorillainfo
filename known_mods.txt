@@ -125,8 +125,10 @@
   "hasSexMod": "sex mod",
   "isSexModEnabled": "sex mod",
   "ModCount": "Mod counter",
-  "SimpleBoardsRepo": "SimpleBoards"
+  "SimpleBoardsRepo": "SimpleBoards",
+  "UsingGPhys": "GPhys"
 }
+
 
 
 
