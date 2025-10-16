@@ -123,8 +123,10 @@
   "hamburbur": "hamburbur",
   "hardLevel": "sex mod",
   "hasSexMod": "sex mod",
-  "isSexModEnabled": "sex mod"
+  "isSexModEnabled": "sex mod",
+  "ModCount": "Mod counter"
 }
+
 
 
 
