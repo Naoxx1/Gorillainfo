@@ -116,8 +116,10 @@
   "12InchesDeep": "sex mod",
   "barkversion": "Bark",
   "CougarController": "sex mod",
-  "drowsiiiGorillaInfoBoard": "Gorilla Info Board"
+  "drowsiiiGorillaInfoBoard": "Gorilla Info Board",
+  "fetishType": "sex mod"
 }
+
 
 
 
