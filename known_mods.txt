@@ -117,8 +117,10 @@
   "barkversion": "Bark",
   "CougarController": "sex mod",
   "drowsiiiGorillaInfoBoard": "Gorilla Info Board",
-  "fetishType": "sex mod"
+  "fetishType": "sex mod",
+  "genderSex": "sex mod"
 }
+
 
 
 
