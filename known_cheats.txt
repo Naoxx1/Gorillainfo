@@ -52,8 +52,10 @@
   "menu": "Menu?",
   "overdosed": "overdosed menu",
   "resurgence": "resurgence?",
-  "violet_f": "Violet Free"
+  "violet_f": "Violet Free",
+  "violet_p": "Violet Paid"
 }
+
 
 
 
