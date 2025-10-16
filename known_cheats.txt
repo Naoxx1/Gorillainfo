@@ -31,7 +31,7 @@
   "mistuser": "Mist",
   "untitled": "Untitled",
   "silliness": "Silliness",
-  "eyerock reborn": "Eyerock Reborn",
+  "eyerock reborn": "Eyerock Reborn old",
   "elysorpaid": "Elysor Paid",
   "evicteduser": "Evicted",
   "emotewheel": "Emote Wheel",
@@ -46,8 +46,10 @@
   "VantaMenu[Owner]": "VantaMenu",
   "6xpyykmrcthkhfeufkygxv7xnxpoe2": "Cryptic menu",
   "colossal": "Colossal",
-  "emenu": "emenu?"
+  "emenu": "emenu?",
+  "Eyerock Reborn 1.4.1": "Eyerock Reborn"
 }
+
 
 
 
