@@ -53,16 +53,6 @@
   "overdosed": "overdosed menu",
   "resurgence": "resurgence?",
   "violet_f": "Violet Free",
-  "violet_p": "Violet Paid"
+  "violet_p": "Violet Paid",
+  "y u lookin in here weirdo": "Skibidi Menu"
 }
-
-
-
-
-
-
-
-
-
-
-
