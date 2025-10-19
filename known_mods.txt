@@ -129,8 +129,10 @@
   "SimpleBoardsRepo": "SimpleBoards",
   "UsingGPhys": "GPhys",
   "wireframe": "wireframe?",
+  "CoolCustomProperty": "NeededProperty",
   "gorillapad": "GorillaPad"
 }
+
 
 
 
