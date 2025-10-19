@@ -54,5 +54,7 @@
   "resurgence": "resurgence?",
   "violet_f": "Violet Free",
   "violet_p": "Violet Paid",
-  "y u lookin in here weirdo": "Skibidi Menu"
+  "y u lookin in here weirdo": "Skibidi Menu",
+  "SW5MOfnDRm9QE5c3f9ckgoWNa": "Probably some cheats"
 }
+
