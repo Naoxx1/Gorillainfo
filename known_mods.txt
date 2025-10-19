@@ -81,6 +81,7 @@
   "gorillatorsoestimator": "Gorilla Torso Estimator",
   "Gorilla Track 2.3.0": "Gorilla Track",
   "gorilla track 2.2.0": "Gorilla Track Old",
+  "Gorilla Track 2.1.0": "Gorilla Track Old",
   "gorilla track packed": "Gorilla Track Packed",
   "boy do i love information": "Boy Do I Love Information",
   "pineappleterminal": "Pineapple Terminal",
@@ -129,3 +130,4 @@
   "UsingGPhys": "GPhys",
   "wireframe": "wireframe?"
 }
+
