@@ -129,7 +129,9 @@
   "SimpleBoardsRepo": "SimpleBoards",
   "UsingGPhys": "GPhys",
   "wireframe": "wireframe?",
-  "gorillapad": "GorillaPad"
+  "gorillapad": "GorillaPad",
+  "made by biotest05": "Biotest05thingy"
 }
+
 
 
