@@ -130,10 +130,6 @@
   "UsingGPhys": "GPhys",
   "wireframe": "wireframe?",
   "CoolCustomProperty": "NeededProperty",
-  "gorillapad": "GorillaPad"
+  "gorillapad": "GorillaPad",
+  "WeAreChainedTogether": "ChainedTogether"
 }
-
-
-
-
-
