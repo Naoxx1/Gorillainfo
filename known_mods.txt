@@ -132,5 +132,8 @@
   "CoolCustomProperty": "NeededProperty",
   "gorillapad": "GorillaPad",
   "WeAreChainedTogether": "ChainedTogether",
-  "Gorilla Gang Wars Player Properties": "GorillaGangWars"
+  "Gorilla Gang Wars Player Properties": "GorillaGangWars",
+  "BoyDoILoveInformation Public": "BDILIPublic",
+  "DTAOI": "DTAOI"
 }
+
