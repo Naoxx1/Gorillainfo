@@ -85,7 +85,8 @@
   "ØƦƁƖƬ": "Orbit",
   "FNgMenu": "Fortnite Gooner Menu",
   "y u lookin in here weirdo": "Malachi Menu Reborn",
-  "Atlas": "Atlas"  "ObsidianMC": "Obsidian",
+  "Atlas": "Atlas",
+  "ObsidianMC": "Obsidian",
   "genesis": "Genesis",
   "elux": "Elux",
   "VioletFreeUser": "Violet Free",
@@ -111,7 +112,8 @@
   "ØƦƁƖƬ": "Orbit",
   "FNgMenu": "Fortnite Gooner Menu",
   "y u lookin in here weirdo": "Malachi Menu Reborn",
-  "Atlas": "Atlas"  "ObsidianMC": "Obsidian",
+  "Atlas": "Atlas",
+  "ObsidianMC": "Obsidian",
   "genesis": "Genesis",
   "elux": "Elux",
   "VioletFreeUser": "Violet Free",
@@ -137,7 +139,8 @@
   "ØƦƁƖƬ": "Orbit",
   "FNgMenu": "Fortnite Gooner Menu",
   "y u lookin in here weirdo": "Malachi Menu Reborn",
-  "Atlas": "Atlas"  "ObsidianMC": "Obsidian",
+  "Atlas": "Atlas",
+  "ObsidianMC": "Obsidian",
   "genesis": "Genesis",
   "elux": "Elux",
   "VioletFreeUser": "Violet Free",
@@ -163,7 +166,8 @@
   "ØƦƁƖƬ": "Orbit",
   "FNgMenu": "Fortnite Gooner Menu",
   "y u lookin in here weirdo": "Malachi Menu Reborn",
-  "Atlas": "Atlas"  "ObsidianMC": "Obsidian",
+  "Atlas": "Atlas",
+  "ObsidianMC": "Obsidian",
   "genesis": "Genesis",
   "elux": "Elux",
   "VioletFreeUser": "Violet Free",
@@ -380,6 +384,7 @@
   "y u lookin in here weirdo": "Malachi Menu Reborn",
   "Atlas": "Atlas"
 }
+
 
 
 
