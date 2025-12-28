@@ -57,5 +57,7 @@
   "y u lookin in here weirdo": "Skibidi Menu",
   "SW5MOfnDRm9QE5c3f9ckgoWNa": "Probably some cheats",
   "bp15's sigma lobby gui": "Lobby GUI",
-  "jamo-menu": "Jamo Menu (goopers)"
+  "jamo-menu": "Jamo Menu (goopers)",
+  "Atlas": "Atlas"
 }
+
